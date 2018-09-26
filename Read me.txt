@@ -1,0 +1,21 @@
+read this before you use this kicking bot
+
+simple telegram kicking bot
+
+the usually takes the users info who all are in the group and it kicks a user who's name is given by other users
+
+download all the modules which are used to make this bot
+
+step1 - get telegram bot token from BotFather in telegram
+
+step2 - open "user and chat info.py" to get information of all group members 
+
+step3 - rename the file as .json
+
+step4 - train the bot in dialogflow and download the json file and get the client access token
+
+you can kick out a user by keeping user id as constant and by entering user name.
+
+kick user by keeping user id as constant - open "kick bot.py" and enter the group chat id which u will get from user and chat info.py and enter the user id
+
+kick user by entering user name - open "user input kicking bot.py" and make all changes as per your bot token and chat id and client access token 
